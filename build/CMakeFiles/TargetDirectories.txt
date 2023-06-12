@@ -1,0 +1,3 @@
+/home/prestige-pc/games/repo/mini-strategy-game/build/CMakeFiles/rts_game.dir
+/home/prestige-pc/games/repo/mini-strategy-game/build/CMakeFiles/edit_cache.dir
+/home/prestige-pc/games/repo/mini-strategy-game/build/CMakeFiles/rebuild_cache.dir
