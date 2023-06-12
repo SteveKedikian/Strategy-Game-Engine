@@ -1,3 +1,0 @@
-/home/prestige-pc/games/rts_game/build/CMakeFiles/rts_game.dir
-/home/prestige-pc/games/rts_game/build/CMakeFiles/edit_cache.dir
-/home/prestige-pc/games/rts_game/build/CMakeFiles/rebuild_cache.dir
